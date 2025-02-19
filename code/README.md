@@ -1,3 +1,3 @@
 ## Code
 
-This folder should contain scripts and/or Jupyter notebooks for data analysis and figure generation.
+This folder contains R scripts for data analysis and figure generation.
