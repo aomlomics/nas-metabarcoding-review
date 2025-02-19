@@ -1,0 +1,83 @@
+author,study,count,fish_detected,marker,gene,region
+Van Nynatten,1,1,2,MiFish-U,12S,Africa
+Pont,49,1,2,teleo,12S,Europe
+Jeunen,50,1,4,Fish16SF/D + 16S2R,16S,Europe
+Everts,51,1,3,12S-V5,12S,Europe
+Blabolil,52,1,7,12S-V5,12S,Europe
+Agersnap,53,1,1,tele02,12S,Europe
+Muha,54,1,1,12S-V5,12S,Europe
+Civade,55,1,3,teleo,12S,Europe
+Hervé,56,1,1,teleo,12S,Europe
+Milhau,57,1,1,teleo,12S,Europe
+Riccioni,58,1,4,MiFish-U,12S,Europe
+Clusa,59,1,1,mlCOIintF + jgHCO2198,COI,Europe
+Czeglédi,60,1,12,teleo,12S,Europe
+Aglieri,61,1,4,tele02,12S,Europe
+Corral-Lou,62,1,10,MiFish-U,12S,Europe
+Kačergytė,63,1,2,MiFish-U (mod),12S,Europe
+Antognazza,64,1,1,MiFish-U,12S,Europe
+Gibson,65,1,4,tele02,12S,Europe
+Gibson,66,1,1,tele02,12S,Europe
+Hänfling,67,1,3,12S-V5,12S,Europe
+Holman,68,1,1,mlCOIintF + jgHCO2198,COI,Europe
+Grey,69,1,2,mlCOIintF + jgHCO2198,COI,Global
+Grey,69,1,1,18S_574F + 18S_952R,18S_V4,Global
+Vences,71,1,1,Vert-16S-eDNA,16S,Europe/South America
+Balasingham,72,1,1,PS1,COI,North America
+Berger,73,1,3,MiFish-U,12S,North America
+Crowley,74,1,3,teleo,12S,North America
+Crowley,74,1,3,MiFish-U,12S,North America
+Crowley,74,1,3,MiniFISH-E,COI,North America
+García-Machado,75,1,3,MiFish,12S,North America
+Maracle,76,1,5,MiFish-U,12S,North America
+Pérez-Fleitas,77,1,9,VertCOI,COI,North America
+Pérez-Fleitas,77,1,9,MiFish,12S,North America
+Euclide,78,1,1,12S-V5,12S,North America
+Williford,79,1,2,MiFish-U/E,12S,North America
+Simmons,80,1,2,L2513 + H2714 ,16S,North America
+Cannon,81,1,2,16Smam,16S,North America
+Cannon,81,1,2,FishCBL + FishCBR,CytB,North America
+Evans,82,1,1,L14735 + H15149c,CytB,North America
+Evans,82,1,1,Am12S,12S,North America
+Evans,82,1,1,Ac16S,16S,North America
+Gehri,83,1,2,12S-V5,12S,North America
+Gehri,83,1,2,Chord_16S (mod),16S,North America
+Lafferty,84,1,3,MiFish-U,12S,North America
+Ludwig,85,1,5,MiFish,12S,North America
+Ludwig,85,1,5,Chord_16S (mod),16S,North America
+Picq,86,1,6,12S-V5,12S,North America
+Peterson,87,1,2,Am12S,12S,North America
+Peterson,87,1,2,Ac16S,16S,North America
+Pukk,88,1,9,12S-V5,12S,North America
+Pukk,88,1,9,Chord_16S,16S,North America
+Rider,89,1,6,MiFish-U,12S,North America
+Sard,90,1,3,12S-V5,12S,North America
+Sard,90,1,3,Chord_16S (mod),16S,North America
+Snyder ,91,1,7,FishCtyb (mod),CytB,North America
+Snyder ,91,1,7,CarpCytb ,CytB,North America
+Snyder ,91,1,7,GobyCytb,CytB,North America
+Snyder ,91,1,7,MiFish-U,12S,North America
+Spence,92,1,5,MiFish,12S,North America
+Stepien,93,1,1,mlCOIintF + jgHCO2198,COI,North America
+Stepien,93,1,1,MiFish-U,12S,North America
+Stepien,93,1,1,FishCytB,CytB,North America
+Tetzlaff,94,1,1,12S-V5,12S,North America
+Schallenberg,95,1,2,12S-V5,12S,Oceania
+Bylemans 2018,96,1,1,MiFish-U,12S,Oceania
+Bylemans 2018,96,1,1,teleo,12S,Oceania
+Bylemans 2018,96,1,1,AcMDB07,12S,Oceania
+Bylemans 2019,97,1,2,MiFish-U,12S,Oceania
+Bylemans 2019,97,1,2,teleo,12S,Oceania
+Bylemans 2019,97,1,2,AcMDB07,12S,Oceania
+DiBattista,98,1,3,16SF/D + 16S2R,16S,Oceania
+McColl‐Gausden,99,1,5,12S-V5,12S,Oceania
+McColl‐Gausden,99,1,5,teleo,12S,Oceania
+Rojahn,100,1,4,AcMDB07,12S,Oceania
+Shaw,101,1,5,12S-V5,12S,Oceania
+Shaw,101,1,5,fish-specific,16S,Oceania
+Jeunen,102,1,1,16SF/D + 16S2R,16S,Oceania
+von Ammon,103,1,1,mlCOIintF + jgHCO2198,COI,Oceania
+Nardi,104,1,2,MiFish-U,12S,Oceania
+Dal Pont,105,1,1,MiFish-U,12S,South America
+Sales,106,1,7,MiFish-U,12S,South America
+Valdez-Moreno,107,1,2,AquaF2/AquaF3 + C_FishR1,COI,South America
