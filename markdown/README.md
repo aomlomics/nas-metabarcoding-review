@@ -1,5 +1,7 @@
 ## Markdown
 
+This folder contains default files that need to be updated for this project.
+
 This folder should contain the following files:
 
 * questions.md – research questions this study is attempting to answer
