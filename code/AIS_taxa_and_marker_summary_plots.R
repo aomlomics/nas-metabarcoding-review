@@ -63,12 +63,12 @@ as.numeric(fish_donut_asia$n)
 
 PieDonut(fish_donut_asia, aes(gene, marker, count=n))
 
-#split by region: nonAsia
-fish_marker_donut_nonasia <- read.csv("/Users/ann.holmes/Desktop/github/ais-metabarcoding-review/fish_marker_donut_plot_nonasia.csv")
+#split by region: other regions: Africa, North and South America, Europe & Oceania
+fish_marker_donut_nonasia <- read.csv("/Users/ann.holmes/Desktop/github/ais-metabarcoding-review/fish_marker_donut_plot_AfrAmerEurOce.csv")
 
-fish_donut_nonasia = fish_marker_donut_nonasia %>% group_by(gene, marker) %>% summarise(n = sum(count))
+fish_donut_AfrAmerEurOce = fish_marker_donut_AfrAmerEurOce %>% group_by(gene, marker) %>% summarise(n = sum(count))
 print(fish_donut)
 
-as.numeric(fish_donut_nonasia$n)
+as.numeric(fish_donut_AfrAmerEurOce$n)
 
-PieDonut(fish_donut_nonasia, aes(gene, marker, count=n))
+PieDonut(fish_donut_AfrAmerEurOce, aes(gene, marker, count=n))
