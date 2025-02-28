@@ -1,10 +1,9 @@
 ## Markdown
 
-This folder contains default files that need to be updated for this project.
+This folder contains the following files:
 
-This folder should contain the following files:
+* questions.md – research questions this study addresses
+* publications_reviewed.md – list of peer-reviewed publications included in this literature review
 
-* questions.md – research questions this study is attempting to answer
-* samples.md – description of sampling methodology, overview of sample data, and links to full sample, preparation, and study data
-* analysis.md – detailed analysis notes including commands run
-* results.md – summary of the main results including links to figures and tables
+?* analysis.md – detailed analysis notes including commands run
+?* results.md – summary of the main results including links to figures and tables
