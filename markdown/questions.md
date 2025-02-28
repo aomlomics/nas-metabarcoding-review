@@ -2,6 +2,7 @@
 
 Research questions for this study:
 
-* How does the microbial community composition fluctuate over time as sinking particulates are exported from the euphotic zone? 
-* How could changes to the microbial community over time impact the northern Gulf of Mexico biological carbon pump?
-* How do biogeochemical fluxes directly alter the microbial community at the study site?
+1. In what contexts (e.g., study goal, habitat sampled, taxa detected) are AIS being reported in the eDNA metabarcoding datasets?
+2. What aspects of study design, methods, data interpretation, and data reporting contribute to higher confidence AIS eDNA metabarcoding detections?
+3. In which aspects of the eDNA metabarcoding workflow can standards be applied that would be readily generalizable across different types of AIS studies?
+4. Which aspects of the eDNA metabarcoding workflow deserve special attention in terms of new guidelines to be done in a certain way, and which aspects are more appropriate as minimum reporting guidelines?
