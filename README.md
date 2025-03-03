@@ -1,6 +1,6 @@
 # Review of AIS detected in eDNA metabarcoding studies
 
-Files associated with a review paper of AIS detected in metabarcoding studies. This review informs guidelines, standards, and reporting requirements for eDNA metabarcoding data in the USGS Nonindigenous Aquatic Species database.
+This repository contains files associated with a review paper of aquatic invasive species (AIS) and non-indigenous aquatic species (NAS) reported in peer-reviewed scientific studies using environmental DNA (eDNA) metabarcoding. The purpose of this work is to inform guidelines, standards, and reporting requirements for AIS and NAS in eDNA metabarcoding data.
 
 * This work is part of the project: Development of eDNA metabarcoding and data standards through community networks to support the USGS Nonindigenous Aquatic Species database
 
