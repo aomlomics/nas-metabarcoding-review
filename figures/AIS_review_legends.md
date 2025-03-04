@@ -1,1 +1,9 @@
-Figure legendsFigure 1.Figure 2.Figure 3.Table legends
+###Figure legends
+
+Figure 1.
+
+Figure 2.
+
+Figure 3.
+
+###Table legends
