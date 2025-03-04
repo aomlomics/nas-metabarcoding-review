@@ -75,7 +75,7 @@ p1 <- ggplot() +
 
 p1
 
-save_plot("platform_by_year_plot.jpg", 
+save_plot("AIS_eDNAmb_papers_platform_by_year_plot.jpg", 
           p1,
           base_width = 9,
           base_height = 8,
