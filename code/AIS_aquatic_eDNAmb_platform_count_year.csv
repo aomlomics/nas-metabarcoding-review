@@ -1,0 +1,41 @@
+year,platform,count
+2015,Roche 454,1
+2016,Illumina HiSeq,2
+2016,Ion Torrent,1
+2016,Illumina MiSeq,6
+2016,Roche 454,3
+2017,Illumina MiSeq,4
+2017,Roche 454,1
+2018,Illumina HiSeq,1
+2018,Ion Torrent,2
+2018,Illumina MiSeq,8
+2018,Roche 454,1
+2019,Ion Torrent,1
+2019,Illumina MiSeq,9
+2020,Illumina HiSeq,2
+2020,Ion Torrent,1
+2020,Illumina MiSeq,10
+2021,Illumina HiSeq,3
+2021,Illumina MiSeq,27
+2021,Illumina NextSeq,1
+2021,"Illumina, multiple platforms",1
+2022,Illumina HiSeq,3
+2022,Ion Torrent,2
+2022,Illumina iSeq,1
+2022,MinION & Illumina MiSeq,1
+2022,Illumina MiSeq,20
+2022,Illumina NovaSeq,1
+2023,Illumina HiSeq,2
+2023,"Illumina, unspecified platform",2
+2023,Ion Torrent,1
+2023,Illumina MiSeq,20
+2023,"Illumina, multiple platforms",1
+2023,Illumina NovaSeq,1
+2024,BGISEQ-500,1
+2024,DNBSEQ-G99,1
+2024,Illumina HiSeq,3
+2024,Illumina iSeq,2
+2024,MinION,1
+2024,Illumina MiniSeq,1
+2024,Illumina MiSeq,27
+2024,Illumina NovaSeq,16
