@@ -36,19 +36,16 @@ ggplot(paper_count_year, aes(x = year, y = count)) +
 
 #combine plots
 p1 <- ggplot() +
-#bar chart layer
-geom_bar(data = paper_count_AIS_platform_year, 
+  geom_bar(data = paper_count_AIS_platform_year, #bar chart layer
          aes(x = factor(year), y = count, fill = platform), 
          position = "stack", stat = "identity") +
-#line plot layer with connected points
-geom_line(data = paper_count_year, 
+  geom_line(data = paper_count_year, #line plot layer with connected points
           aes(x = factor(year), y = count / 27, group = 1),  
           color = "black", size = 1, linetype = "dashed") +  
-geom_point(data = paper_count_year, 
+  geom_point(data = paper_count_year, 
            aes(x = factor(year), y = count / 27), 
            color = "black", size = 3) +
-#add text labels to the points on the line plot
-geom_label(data = paper_count_year, 
+  geom_label(data = paper_count_year, #add text labels to the points on the line plot
            aes(x = factor(year), y = count / 27, label = count), 
            vjust = -0.2,  #move text slightly upward
            hjust = 1.2,  #move text to the left
@@ -56,22 +53,29 @@ geom_label(data = paper_count_year,
            size = 4,
            fill = "white",  #white box behind text
            label.size = 0.25) +  #border around text box
-#labels, themes, and scales
-theme_bw() +
-xlab("Year published") +
-ylab("Number of papers") +  #Y-axis for bar chart values
-scale_fill_manual(values = cols) +  #cstom fill colors for bar chart
-scale_x_discrete(breaks = 2015:2024, labels = 2015:2024) +
-scale_y_continuous(breaks = seq(10, 60, by = 10), labels = seq(10, 60, by = 10)) +
-theme(axis.title.y = element_text(color = "black", size = 14),
+  theme_bw() + #labels, themes, and scales
+  xlab("Year published") +
+  ylab("Papers reporting AIS/NAS") +  #Y-axis for bar chart values
+  scale_fill_manual(values = cols) +  #cstom fill colors for bar chart
+  scale_x_discrete(breaks = 2015:2024, labels = 2015:2024) +
+  scale_y_continuous(name = "Papers reporting AIS/NAS",
+                     breaks = seq(10, 60, by = 10), 
+                     labels = seq(10, 60, by = 10),
+                     sec.axis = sec_axis(transform = ~ . * 26, 
+                                         name = "Total aquatic eDNA metabarcoding papers")) +
+  theme(axis.title.y = element_text(color = "black", size = 14),
       axis.text.y = element_text(color = "black", size = 12),
       axis.title.x = element_text(color = "black", size = 14),
       axis.text.x = element_text(color = "black", size = 12),
-      legend.title = element_blank())
+      legend.title = element_blank(),
+      legend.position = c(0.05, 0.95), 
+      legend.justification = c(0,1),
+      legend.background = element_rect(fill = "white", color = "black", linewidth = 0.25),
+      legend.box.background = element_rect(color = "black", linewidth = 0.25))
 
 p1
 
-save_plot("platforn_by_year_plot.jpg", 
+save_plot("platform_by_year_plot.jpg", 
           p1,
           base_width = 9,
           base_height = 8,
