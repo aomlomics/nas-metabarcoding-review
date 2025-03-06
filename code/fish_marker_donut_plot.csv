@@ -34,7 +34,7 @@ Ahn,32,1,1,MiFish-U/E,12S,Asia
 Fujii,33,1,9,MiFish-U,12S,Asia
 Imamura,34,1,3,MiFish-U,12S,Asia
 Ito,35,1,10,MiFish-U,12S,Asia
-Kanbe,36,1,1,Salmon4U,NADH,Asia
+Kanbe,36,1,1,Salmon4U,ND2,Asia
 Kume,37,1,9,MiFish-U/E,12S,Asia
 Lavergne,38,1,7,MiFish,12S,Asia
 Nakagawa,39,1,2,MiFish-U/E,12S,Asia
@@ -45,7 +45,7 @@ Kang,43,1,4,MiFish-U,12S,Asia
 Gillet,44,1,6,12S-V5,12S,Asia
 Zainal Abidin,45,1,2,MiFish-U,12S,Asia
 Alam,46,1,5,MiFish,12S,Asia
-Feng,47,1,6,edm_Cytb,CytB,Asia
+Feng,47,1,6,edm_CytB,CytB,Asia
 Keskin,48,1,3,FishCBL/R,CytB,Asia
 Pont,49,1,2,teleo,12S,Europe
 Jeunen,50,1,4,"Fish16SF/D, 16S2R",16S,Europe
@@ -68,7 +68,7 @@ Gibson,66,1,1,tele02,12S,Europe
 Hänfling,67,1,3,12S-V5,12S,Europe
 Holman,68,1,1,Leray,COI,Europe
 Grey,69,1,2,Leray,COI,Global
-Grey,69,1,1,18S_574F/18S_952R,18S_V4,Global
+Grey,69,1,1,18S_574F/952R,18S,Global
 Wibowo,70,1,7,Ficetola_CytB,CytB,Asia
 Vences,71,1,1,Vert-16S-eDNA,16S,Europe/South America
 Balasingham,72,1,1,PS1,COI,North America
@@ -101,9 +101,9 @@ Pukk,88,1,9,Chord_16S,16S,North America
 Rider,89,1,6,MiFish-U,12S,North America
 Sard,90,1,3,12S-V5,12S,North America
 Sard,90,1,3,Chord_16S (mod),16S,North America
-Snyder ,91,1,7,FishCytb (mod),CytB,North America
-Snyder ,91,1,7,CarpCytb ,CytB,North America
-Snyder ,91,1,7,GobyCytb,CytB,North America
+Snyder ,91,1,7,FishCytB (mod),CytB,North America
+Snyder ,91,1,7,CarpCytB,CytB,North America
+Snyder ,91,1,7,GobyCytB,CytB,North America
 Snyder ,91,1,7,MiFish-U,12S,North America
 Spence,92,1,5,MiFish,12S,North America
 Stepien,93,1,1,Leray,COI,North America

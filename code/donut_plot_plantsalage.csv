@@ -1,0 +1,16 @@
+author,year,count,habitat,marker,gene,region,country
+Coghlan,2021,1,freshwater,omatK2,matK,North America,Canada
+Coghlan,2021,1,freshwater,orbcL2,rbcL,North America,Canada
+Coghlan,2021,1,freshwater,oITSn,ITS,North America,Canada
+Coghlan,2021,1,freshwater,orbcLa,rbcL,North America,Canada
+Coghlan,2021,1,freshwater,oITS2,ITS,North America,Canada
+Ji,2021,1,freshwater,rbcLF/R,rbcL,Asia,China
+Reji Chacko,2023,1,freshwater,"g, h (Sper01)",trL,Europe,Switzerland
+Ruiz-Ramos,2022,1,freshwater,ITS-S2F/S3R,ITS,North America,United States
+Varotto,2021,1,freshwater,"c, h",trL,Europe (Italy),Italy
+Duprey,2023,1,marine,Leray/Geller,COI,North America,United States
+Fernandez,2022,1,marine,Leray/Geller,COI,Asia,Middle East
+Ibabe,2021,1,marine,Leray/Geller,COI,Europe,Spain
+Rey,2020,1,marine,Leray/Geller,COI,Europe,Spain
+Rey,2020,1,marine,"1389F, 1510R ",18S,Europe,Spain
+Maggio,2023,2023,marine,Leray/Geller,COI,Europe,Italy

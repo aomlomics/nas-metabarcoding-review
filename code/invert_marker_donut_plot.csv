@@ -1,0 +1,112 @@
+author,year,count,habitat,marker,gene,gene_vr,region,country
+Abad,2016,1,marine,"1391f, EukBr",18S,18S_V9,Europe,Spain
+Aglieri,2023,1,marine,Leray-XT/Geller,COI,COI,Europe,"Mediterranean Sea, Italy"
+Andrés,2023,1,marine,"18S_574F, 18S_952R",18S,18S_V4,Global,"Europe, Asia, Australia and the Americas"
+Ardura,2024,1,marine,Leray/Geller,COI,COI,Europe,France
+Ardura,2021,1,marine,Leray/Geller,COI,COI,Oceania,French Polynesia
+Ardura,2021,1,marine,Uni18SF/R,18S,18S_V4,Oceania,French Polynesia
+Ardura,2017,1,freshwater,Geller,COI,COI,Europe,"Lithuania, Poland"
+Bae,2023,1,marine,AscCOI_F/R,COI,COI,Asia,South Korea
+Blackman,2017,1,freshwater,Leray/Geller,COI,COI,Europe,United Kingdom
+Blackman,2020,1,freshwater,Leray/Geller,COI,COI,Europe,United Kingdom
+Blackman,2022,1,freshwater,Leray/Geller,COI,COI,Europe,Switzerland
+Borrell,2017,1,marine,Geller,COI,COI,Europe,Spain
+Borrell,2017,1,marine,18S_1/2_RC,18S,18S_V4-5,Europe,Spain
+Borrell,2018,1,marine,Geller,COI,COI,Europe,Spain
+Brown,2016,1,both ,Uni18SF/R,18S,18S_V4,North America,Canada
+Budnick,2024,1,freshwater,Cray-16S-F/R,16S,16S,North America,United States
+Castro-Cubillos,2022,1,marine,"E572F, E1009R",18S,18S_V4,North America,Mexico
+Castro-Cubillos,2022,1,marine,Leray-XT/Geller,COI,COI,North America,Mexico
+Clusa,2021,1,freshwater,Leray/Geller,COI,COI,Europe,"Germany, France, Switzerland, Austria"
+Couton,2022,1,marine,Leray/Geller,COI,COI,Europe,France
+Couton,2022,1,marine,SSU_FO4/R22,18S,18S_V1-2,Europe,France
+Couton,2022,1,marine,16S_Kelly,16S,16S,Europe,France
+Deiner,2018,1,marine,"18S_574F, 18S_952R",18S,18S_V4,Europe,United Kingdom
+Di Capua,2021,1,marine,TAReuk454FWD1/REV3 (mod),18S,18S_V4,Europe,Italy
+Duprey,2023,1,marine,Leray/Geller,COI,COI,North America,United States
+Egeter,2022,1,freshwater,UNIO_F/R,16S,16S,Europe,"Italy, Portugal"
+Egeter,2022,1,freshwater,VENE_F/R,16S,16S,Europe,"Italy, Portugal"
+Fernandez,2021,1,marine,Leray-XT/Geller,COI,COI,Europe,United Kingdom
+Fernandez,2022,1,marine,Leray/Geller,COI,COI,Asia,"Gulf of Aqaba, Red Sea"
+Fueyo,2024,1,freshwater,"fwhF2, EPTDr2n",COI,COI,Europe,Spain
+Garcia-Vazquez,2021,1,marine,Leray/Geller,COI,COI,Global,"Europe:Germany, France, West Africa (RV Polarstern), Red Sea, French Polynesia"
+Gargan,2022,1,marine,Geller,COI,COI,Europe,United Kingdom
+Gargan,2022,1,marine,LoboF1/R1,COI,COI,Europe,United Kingdom
+Gold,2022,1,marine,Leray/Geller,COI,COI,North America,United States
+Gold,2022,1,marine,16S_Kelly,16S,16S,North America,United States
+Grey,2018,1,both,Leray/Geller,COI,COI,Global,"North America, Asia, Oceania (Chicago, Singapore, and Adelaide)"
+Günther,2018,1,marine,Günther/Leray,COI,COI,Europe,Germany
+Günther,2018,1,marine,18S_4/5_RC,18S,18S_V8,Europe,Germany
+Holman,2019,1,marine,Leray/Geller,COI,COI,Europe,United Kingdom
+Holman,2019,1,marine,Uni18SF/R,18S,18S_V4,Europe,United Kingdom
+Holman,2022,1,marine,Leray/Geller,COI,COI,Africa,South Africa
+Holman,2022,1,marine,Uni18SF/R,18S,18S_V4,Africa,South Africa
+Hupało,2022,1,freshwater,fwhF2/R2n,COI,COI,Europe,Italy
+Ibabe,2021,1,marine,Leray/Geller,COI,COI,Europe,Spain
+Ip,2021,1,marine,Leray/Meier,COI,COI,Asia,Singapore
+Jensen,2024,1,marine,Leray-XT/Geller,COI,COI,Europe,Denmark
+Jeunen,2022,1,freshwater,Berry_16S,16S,16S,Europe,Belarus
+Kim,2024,1,marine,Leray-XT/Geller,COI,COI,Asia,South Korea
+Klymus,2017,1,freshwater,MOL16S_F/R,16S,16S,North America,United States
+Klymus,2017,1,freshwater,SPH16S_F/R,16S,16S,North America,United States
+Koziol,2018,1,both,Crust16S_F/R,16S,16S,Oceania,Australia
+Koziol,2018,1,both,"18S1F, 400R",18S,18S_V1-3,Oceania,Australia
+Koziol,2018,1,both,Leray/Geller,COI,COI,Oceania,Australia
+Lacoursière-Roussel,2018,1,marine,Leray/Geller,COI,COI,North America,Canada
+Lacoursière-Roussel,2018,1,marine,Folmer/Shokralla,COI,COI,North America,Canada
+Lavrador,2024,1,marine,Leray/Lobo,COI,COI,Europe,Portugal
+Lavrador,2024,1,marine,TAReuk454FWD1/REV3,18S,18S_V4,Europe,Portugal
+Lim,2016,1,freshwater,Leray/Geller,COI,COI,Asia,Singapore
+Lin,2022,1,marine,Uni18SF/R,18S,18S_V4,Europe,Croatia
+Macé,2024,1,marine,Kelly_16S,16S,16S,Europe,France
+Macé,2024,1,marine,euka2,18S,18S_V7,Europe,France
+Madduppa,2022,1,marine,MiDeca,16S,16S,Asia,Indonesia
+Maggio,2023,1,marine,Leray/Geller,COI,COI,Europe,Italy
+Maggio,2023,1,marine,Geller,COI,COI,Europe,Italy
+Maggio,2023,1,marine,CasF/R,COI,COI,Europe,Italy
+Marshall,2019,1,freshwater,COIA–F/R,COI,COI,North America,United States
+Marshall,2019,1,freshwater,Moll_16S,16S,16S,North America,United States
+Marshall,2020,1,freshwater,Cop_16SF/R,16S,16S,North America,United States
+Marshall,2020,1,freshwater,Ins_16S,16S,16S,North America,United States
+Marshall,2020,1,freshwater,Moll_16S,16S,16S,North America,United States
+Mulero,2021,1,freshwater,Gast01F/R,16S,16S,Europe,France
+Mychek-Londer,2020,1,freshwater,Leray/Geller,COI,COI,North America,Canada
+Nester,2024,1,marine,Leray/Geller,COI,COI,Oceania,Southern Ocean (Australia/Antarctica)
+Pearman,2021,1,marine,Leray/Geller,COI,COI,Oceania,Tahiti
+Prié,2023,1,freshwater,UNIO_F/R,16S,16S,Europe,France
+Prié,2023,1,freshwater,VENE_F/R,16S,16S,Europe,France
+Prié,2021,1,freshwater,UNIO_F/R,16S,16S,Europe,France
+Prié,2021,1,freshwater,VENE_F/R,16S,16S,Europe,France
+Rey,2020,1,marine,Leray/Geller,COI,COI,Europe,Spain
+Rey,2020,1,marine,"1389F, 1510R",18S,18S_V9,Europe,Spain
+Rossouw,2024,1,marine,Leray/Geller,COI,COI,Africa,South Africa
+Simões,2024,1,marine,Leray/Geller,COI,COI,Europe,Portugal
+Simões,2024,1,marine,18S-F04/R22,18S,18S,Europe,Portugal
+Specchia,2022,1,marine,Leray/Geller,COI,COI,Europe,Italy
+Stepien,2024,1,marine,Leray/Geller,COI,COI,North America,United States
+Stepien,2024,1,marine,Cop_16SF/R,16S,16S,North America,United States
+Suarez-Menedez - A tonsa 1 read,2020,1,marine,Leray/Geller,COI,COI,Europe,France
+Tagliabue,2023,1,marine,Leray/Geller,COI,COI,Europe,Italy
+Teed,2024,1,marine,Leray/Geller,COI,COI,North America,Canada
+van den Heuvel-Greve,2021,1,marine,TAReuk454FWD1/REV3_v1 ,18S,18S_V4,Europe,Norway (Svalbard)
+van den Heuvel-Greve,2021,1,marine,Leray_v2/Geller,COI,COI,Europe,Norway (Svalbard)
+von Ammon,2023,1,marine,Uni18SF/R,18S,18S_V4,Oceania,Aotearoa-New Zealand
+von Ammon,2023,1,marine,Leray/Geller,COI,COI,Oceania,Aotearoa-New Zealand
+Von Ammon,2019,1,marine,Leray/Geller,COI,COI,Oceania,Aotearoa-New Zealand
+Westfall,2020,1,marine,Arth_16S,16S,16S,North America,Canada
+Westfall,2020,1,marine,Bryo_16S,16S,16S,North America,Canada
+Westfall,2020,1,marine,Moll_16S,16S,16S,North America,Canada
+Westfall,2020,1,marine,Bryo_18S,18S,18S,North America,Canada
+Westfall,2020,1,marine,Moll_18S,18S,18S,North America,Canada
+Westfall,2020,1,marine,Asc_18S,18S,18S,North America,Canada
+Westfall,2020,1,marine,Arth_COI,COI,COI,North America,Canada
+Westfall,2020,1,marine,Asc_ND4,ND4,ND4,North America,Canada
+Westfall,2022,1,marine,Cmaenas_COI,COI,COI,North America,Canada
+Yip,2023,1,marine,Leray/Geller,COI,COI,Asia,Singapore
+Yip,2023,1,marine,MarVer3F/R,16S,16S,Singapore,Singapore
+Zaiko,2015,1,marine,Geller,COI,COI,Europe,Lithuania
+Zarcero,2024,1,marine,Leray-XT/Geller,COI,COI,Europe,Spain
+Zhou,2024,1,freshwater,Gast01F/R,16S,16S,Asia,China
+Zhou,2024,1,freshwater,16SrRNA244,16S,16S,Asia,China
+Zhou,2024,1,freshwater,16SrRNA150,16S,16S,Asia,China
+Zhou,2024,1,freshwater,16SrRNA287,16S,16S,Asia,China
