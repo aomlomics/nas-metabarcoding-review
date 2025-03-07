@@ -418,3 +418,25 @@ PieDonutCustom(plant_donut,aes(gene,marker, count=n),
                donutLabelSize = 3)
 
 dev.off()
+
+#extras
+#fish markers split by region
+#Asia
+fish_marker_donut_asia <- read.csv("/Users/ann.holmes/Desktop/github/ais-metabarcoding-review/fish_marker_donut_plot_asia.csv")
+
+fish_donut_asia = fish_marker_donut_asia %>% group_by(gene, marker) %>% summarise(n = sum(count))
+print(fish_donut)
+
+as.numeric(fish_donut_asia$n)
+
+PieDonut(fish_donut_asia, aes(gene, marker, count=n))
+
+#all other regions
+fish_marker_donut_nonasia <- read.csv("/Users/ann.holmes/Desktop/github/ais-metabarcoding-review/fish_marker_donut_plot_nonasia.csv")
+
+fish_donut_nonasia = fish_marker_donut_nonasia %>% group_by(gene, marker) %>% summarise(n = sum(count))
+print(fish_donut)
+
+as.numeric(fish_donut_nonasia$n)
+
+PieDonut(fish_donut_nonasia, aes(gene, marker, count=n))
