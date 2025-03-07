@@ -30,6 +30,17 @@ as.character(invert_donut$gene)
 as.character(invert_donut$marker)
 as.numeric(invert_donut$n)
 
+#plant and macroalage AIS
+plant_marker_donut <- read.csv("plantsalgae_marker_donut_plot.csv")
+
+plant_donut = plant_marker_donut %>% 
+  group_by(gene, marker) %>% 
+  summarise(n = sum(count))
+
+as.character(plant_donut$gene)
+as.character(plant_donut$marker)
+as.numeric(plant_donut$n)
+
 #before plotting, create this function to customize colors using RColorBrewer palette
 #modified from from https://stackoverflow.com/questions/68095243/piedonut-how-to-change-color-of-pie-and-donut
 #function derives from the pieDonut source code
@@ -351,10 +362,14 @@ PieDonutCustom <- function (data, mapping, start = getOption("PieDonut.start",
 }
 
 
-#fish: basic Pie Donut plot
+#basic Pie Donut plot
 fish_markers_count <-PieDonut(fish_donut, aes(gene, marker, count=n))
 
-#fish plot final
+#need to open a PNG graphics device in order to save both pie and donut in the same plot
+agg_png("fish_markers_count_piedonut.png", width = 10, height = 8, units = "in", res = 300)
+
+#fish plot
+#plot the piedonut directly inside the device
 PieDonutCustom(fish_donut,aes(gene,marker, count=n),
                start=3.5*pi/2,
                maxx=1.7,
@@ -366,7 +381,13 @@ PieDonutCustom(fish_donut,aes(gene,marker, count=n),
                pieLabelSize = 7,
                donutLabelSize = 3)
 
-#invert plot final
+dev.off()
+
+#need to open a PNG graphics device in order to save both pie and donut in the same plot
+agg_png("invert_markers_count_piedonut.png", width = 10, height = 8, units = "in", res = 300)
+
+#invert plot
+#plot the piedonut directly inside the device
 PieDonutCustom(invert_donut,aes(gene,marker, count=n),
                start=4*pi/2,
                maxx=1.7,
@@ -378,4 +399,22 @@ PieDonutCustom(invert_donut,aes(gene,marker, count=n),
                pieLabelSize = 7,
                donutLabelSize = 3)
 
+dev.off()
 
+#need to open a PNG graphics device in order to save both pie and donut in the same plot
+agg_png("plants_macroalgae_markers_count_piedonut.png", width = 10, height = 8, units = "in", res = 300)
+
+#plants and macroalage plot
+#plot the piedonut directly inside the device
+PieDonutCustom(plant_donut,aes(gene,marker, count=n),
+               start=4*pi/2,
+               maxx=1.7,
+               palette_name = "Set1",
+               showRatioThreshold = 0,
+               showRatioDonut = FALSE,
+               showRatioPie = FALSE,
+               labelposition = 1,
+               pieLabelSize = 7,
+               donutLabelSize = 3)
+
+dev.off()
