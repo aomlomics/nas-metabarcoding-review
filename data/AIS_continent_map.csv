@@ -1,0 +1,221 @@
+study,author,year,continent,country,habitat
+1,Abad,2016,Europe,Spain,marine
+2,Agersnap,2022,Europe,Denmark,marine
+3,Aglieri,2023,Europe,Italy,marine
+4,Ahn,2024,Asia,Japan,freshwater
+5,Alam,2020,Asia,South Korea,freshwater
+6,Ambeng,2024,Asia,Indonesia,freshwater
+7,Amin,2024,Asia,Indonesia,freshwater
+8a,Andrés,2023,Europe,Belgium  ,marine
+8b,Andrés,2023,Europe,Netherlands,marine
+8a,Andrés,2023,North America,Canada,marine
+8b,Andrés,2023,North America,United States,marine
+8a,Andrés,2023,Oceania,Australia,marine
+8b,Andrés,2023,South America,Argentina,marine
+9,Antognazza,2021,Europe,United Kingdom,freshwater
+10a,Ardura,2017,Europe,Lithuania,freshwater
+10b,Ardura,2017,Europe,Poland,freshwater
+11,Ardura,2024,Europe,France,marine
+12,Bae,2023,Asia,South Korea,marine
+13,Balasingham,2018,North America,Canada,freshwater
+14,Batista,2022,South America,Brazil.,freshwater
+15,Berger,2020,North America,Canada,freshwater
+16,Blabolil,2021,Europe,Czech Republic,freshwater
+17,Blackman,2017,Europe,United Kingdom,freshwater
+18,Blackman,2020,Europe,United Kingdom,freshwater
+19,Blackman,2022,Europe,Switzerland,freshwater
+20,Bombin,2021,North America,United States,marine
+21,Borrell,2017,Europe,Spain,marine
+22,Borrell,2018,Europe,Spain,marine
+23,Boyse,2024,Europe,United Kingdom,marine
+24,Broadhurst,2021,Europe,United Kingdom,freshwater
+25,Budnick,2024,North America,United States,freshwater
+26,Bushuiev,2024,Europe,Ukraine,freshwater
+27,Bylemans,2018,Oceania,Australia,freshwater
+28,Bylemans,2019,Oceania,Australia,freshwater
+29,Cannon,2016,North America,United States,freshwater
+30,Castro-Cubillos,2022,North America,Mexico,marine
+31,Charvoz,2021,Europe,Switzerland,freshwater
+32a,Chen,2024,Asia,China,freshwater
+32b,Chen,2024,Asia,China,marine
+33,Cheng,2023,Asia,China,freshwater
+34,Civade,2016,Europe,France,freshwater
+35a,Clusa,2021,Europe,Austria,freshwater
+35b,Clusa,2021,Europe,France,freshwater
+35a,Clusa,2021,Europe,Germany,freshwater
+35b,Clusa,2021,Europe,Switzerland,freshwater
+36,Coghlan,2021,North America,Canada,freshwater
+37,Corral-Lou,2023,Europe,Spain,freshwater
+38,Couton,2022,Europe,France,marine
+39,Crowley,2024,North America,Canada,freshwater
+40,Czeglédi,2021,Europe,Hungary,freshwater
+41,Dal Pont,2021,South America,Brazil,freshwater
+42,Deiner,2018,Europe,United Kingdom,marine
+43,Deng,2024,Asia,China,freshwater
+44,Deremarque,2024,Europe,France,freshwater
+45,Díaz,2020,Europe,Germany,freshwater
+46,DiBattista,2022,Oceania,Australia,marine
+47,DiCapua,2021,Europe,Italy,marine
+48,Dufresnes,2019,Europe,Switzerland,freshwater
+49,Duprey,2023,Europe,Switzerland,marine
+50a,Egeter,2022,Europe,Italy,freshwater
+50b,Egeter,2022,Europe,Portugal,freshwater
+51,Ernetti,2024,South America,Brazil,freshwater
+52,Euclide,2021,North America,United States,freshwater
+53,Evans,2017,North America,United States,freshwater
+54,Everts,2024,Europe,Belgium,freshwater
+55,Feng,2023,Asia,Tibet,freshwater
+56,Fernandez,2021,Europe,Ireland,marine
+57,Fernandez,2022,Asia,Israel,marine
+58,Fueyo,2024,Europe,Spain,freshwater
+59,Fujii,2019,Asia,Japan,freshwater
+60a,García-Machado,2021,North America,Canada,freshwater
+60b,García-Machado,2021,North America,Canada,marine
+62,Gargan,2022,Europe,United Kingdom,marine
+63,Gehri,2021,North America,United States,freshwater
+64a,Gibson,2023,Europe,United Kingdom,freshwater
+64b,Gibson,2023,Europe,United Kingdom,marine
+65a,Gibson,2024,Europe,United Kingdom,freshwater
+65b,Gibson,2024,Europe,United Kingdom,marine
+66,Gillet,2018,Asia,Laos,freshwater
+67,Gold,2022,North America,United States,marine
+68a,Grey,2018,North America,United States,freshwater
+68b,Grey,2018,North America,United States,marine
+68c,Grey,2018,Asia,Singapore,marine
+68d,Grey,2018,Oceania,Australia,marine
+69,Günther,2018,Europe,Germany ,marine
+70,Hänfling,2016,Europe,United Kingdom,freshwater
+71,He,2024,Asia,China,freshwater
+72,Hervé,2022,Europe,France,freshwater
+73,Holman,2019,Europe,United Kingdom,marine
+74,Holman,2022,Africa,South Africa,marine
+75,How,2024,Asia,China,marine
+76,How,2024,Asia,Hong Kong,marine
+77,Hu,2022,Asia,China,freshwater
+78,Hupalo,2022,Europe,Italy,freshwater
+79,Ibabe,2021,Europe,Spain,marine
+80,Imamura,2020,Asia,Japan,freshwater
+81,Ip,2021,Asia,Singapore,marine
+82,Ito,2023,Asia,Japan,freshwater
+83,Jensen,2024,Europe,Denmark,marine
+84,Jeunen,2019,Europe,Belarus,freshwater
+85,Jeunen,2022,Oceania,Aotearoa-New Zealand,marine
+86,Ji,2021,Asia,China,freshwater
+87,Kačergytė,2021,Europe,Sweden,freshwater
+88,Kanabe,2023,Asia,Japan,freshwater
+89,Kang,2024,Asia,South Korea,freshwater
+90,Kang,2024,Asia,South Korea,freshwater
+91,Keskin,2016,Asia,Turkey,freshwater
+92,Kim,2024,Asia,South Korea,marine
+93,Klymus,2017,North America,United States,freshwater
+94,Koziol,2018,Oceania,Australia,marine
+95,Krisanti,2024,Asia,Indonesia,freshwater
+96a,Kume,2021,Asia,Japan,freshwater
+96b,Kume,2021,Asia,Japan,marine
+97,Kurniawan,2024,Asia,Indonesia,freshwater
+98,Lacoursière-Roussel,2018,North America,Canada,marine
+99,Lafferty,2024,North America,United States,freshwater
+100,Lavergne,2022,Asia,Japan,freshwater
+101,Lavrador,2024,Europe,Portugal,marine
+102,Lefrancois,2024,North America,French West Indies,freshwater
+103,LiF,2023,Asia,China,freshwater
+104,Lim,2016,Asia,Singapore,freshwater
+105,Lin,2023,Asia,China,freshwater
+106,Liu,2024,Asia,China,freshwater
+107,LiX,2024,Asia,China,freshwater
+108,LiY,2024,Asia,China,freshwater
+109,LiZ,2024,Asia,China,freshwater
+110,Ludwig,2024,North America,United States,freshwater
+111,Ma,2022,Asia,China,freshwater
+112,Macé,2024,Europe,France,marine
+113,Madduppa,2022,Asia,Indonesia,marine
+114,Maggio,2023,Europe,Italy,marine
+115,Maracle,2024,North America,Canada,freshwater
+116,Marshall,2019,North America,United States,freshwater
+117,Marshall,2020,North America,United States,freshwater
+118,McColl‐Gausden,2021,Oceania,Australia,freshwater
+119,Milhau,2021,Europe,France,freshwater
+120,Muha,2021,Europe,United Kingdom,freshwater
+121,Mulero,2021,Europe,France,freshwater
+122,Mychek-Londer,2020,North America,Canada,freshwater
+123,Nakagawa,2018,Asia,Japan,freshwater
+124,Nakamichi,2023,Asia,Japan,freshwater
+125,Nardi,2024,South America,Argentina,marine
+126,Naro-Maciel,2022,North America,United States,marine
+127,Nester,2024,Oceania,Australia,marine
+128,Nguyen,2020,North America,Panama,marine
+129,Oliveira Carvalho,2024,Africa,Madagascar,freshwater
+130,Palacios Mejia,2021,North America,United States,freshwater
+131,Pearman,2021,Oceania,Tahiti,marine
+132,Pérez-Fleitas,2023,North America,Cuba,marine
+133,Perry,2024,Europe,United Kingdom,freshwater
+134,Peterson,2022,North America,United States,freshwater
+135,Picq,2024,North America,United States,freshwater
+136,Pont,2023,Europe,Danube River Basin,freshwater
+137,Prié,2021,Europe,France,freshwater
+138a,Prié,2023,Africa,Morocco,freshwater
+138b,Prié,2023,Europe,"France, Italy",freshwater
+139,Pukk,2021,North America,United States,freshwater
+140,Qu,2020,Asia,China,freshwater
+141,Reji Chacko,2023,Europe,Switzerland,freshwater
+142,Rey,2020,Europe,Spain,marine
+143,Riccioni,2022,Europe,France,freshwater
+144,Rider,2024,North America,United States,freshwater
+145,Rojahn        ,2021,Oceania,Australia,freshwater
+146,Rossouw,2024,Africa,South Africa,marine
+147,Ruiz-Ramos,2022,North America,United States,freshwater
+148a,Saenz-Agudelo,2022,South America,Chile,freshwater
+148b,Saenz-Agudelo,2022,South America,Chile,marine
+149,Sales,2021,South America,Brazil,freshwater
+150,Sard,2019,North America,United States,freshwater
+151,Sato,2017,Asia,Japan,freshwater
+152,Sato,2018,Asia,Japan,freshwater
+153,Schallenberg,2023,Oceania,Aotearoa-New Zealand,freshwater
+154,Shaw,2016,Oceania,Australia,freshwater
+155,Shechonge,2024,Africa,Tanzania,freshwater
+156,Shen,2023,Asia,China,freshwater
+157,Shen,2024,Asia,China,freshwater
+158,Simmons,2016,North America,United States,freshwater
+159,Simões,2024,Europe,Portugal,marine
+160,Snyder ,2020,North America,United States,freshwater
+161,Spence,2024,North America,United States,freshwater
+162,Stepien,2024,North America,United States,marine
+163,Stevens,2024,Oceania,Australia,freshwater
+164,Suarez-Menedez,2020,Europe,France,marine
+165,Tabatabaei,2024,Asia,Iran,freshwater
+166,Tagliabue,2023,Europe,Italy,marine
+167,Teed,2024,North America,Canada,marine
+168,Tetzlaff,2024,North America,United States,freshwater
+169,Tsuji,2024,Asia,Japan,freshwater
+170a,Valdez-Moreno,2019,North America,"Belize, Mexico",freshwater
+171,van den Heuvel-Greve,2021,Europe,Norway,marine
+172,Van Nynatten,2024,Africa,South Africa,freshwater
+173,Varotto,2021,Europe,Italy,freshwater
+174,Vences,2016,Europe,Germany,freshwater
+175,von Ammon,2019,Oceania,Aotearoa-New Zealand,marine
+176,von Ammon,2023,Oceania,Aotearoa-New Zealand,marine
+177,Wang,2023,Asia,China,marine
+178,WangS,2024,Asia,China,freshwater
+179,WangX,2024,Asia,China,marine
+180,Wei,2024,Asia,China,freshwater
+181,Westfall,2020,North America,Canada,marine
+182,Westfall,2022,North America,Canada,marine
+183,Wibowo,2022,Asia,Indonesia,freshwater
+184a,Williford,2023,North America,United States,freshwater
+184b,Williford,2023,North America,United States,marine
+185,Wu,2024,Asia,China,freshwater
+186,Xin,2024,Asia,China,freshwater
+187,Xu,2023,Asia,China,freshwater
+188,Yip,2023,Asia,Singapore,marine
+189,Yu,2024,Asia,China,freshwater
+190,Zaiko,2015,Europe,Lithuania ,marine
+191a,Zainal Abidin,2022,Asia,Malaysia,freshwater
+191b,Zainal Abidin,2022,Asia,Malaysia,marine
+192,Zangaro,2024,Europe,Italy,marine
+193,Zeng,2022,Asia,China,freshwater
+194,ZhangH,2023,Asia,China,freshwater
+195,ZhangS,2022,Asia,China,freshwater
+196,ZhangS,2023a,Asia,China,freshwater
+197,ZhangS,2023b,Asia,China,freshwater
+198,Zhou,2022,Asia,China,freshwater
+199,Zhou,2024,Asia,China,freshwater
