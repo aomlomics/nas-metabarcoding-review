@@ -6,7 +6,7 @@ This repository contains files associated with a systematic review paper. The pa
 
 The structure of this repository is:
 
-* markdown – study questions, publications included in review, analysis notes, and results
-* code – R scripts for data analysis and figure generation
+* code – R scripts used for data analysis and figure generation
+* data – primary data files generated in this study 
+* docs – reporting and review documentation
 * figures – pre-publication versions of figures
-* metadata – sample data and other metadata, prepared in standard format for database submission
