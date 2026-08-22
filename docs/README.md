@@ -8,5 +8,3 @@ This folder contains reporting checklists and supplementary materials, including
 * Appendix_2_systematic_review.md – markdown for FAIR compliance
 * Appendix_3_publications_included.xlsx – included publications only
 * Appendix_3_publications_included.md – markdown for FAIR compliance
-  
-* questions.md – research questions this study addresses
