@@ -1,4 +1,4 @@
-#NAS/AIS eDNA metabarcoding paper
+#NAS/NAS eDNA metabarcoding paper
 #Code for graphical abstract derived from Table 4 Best Practices
 
 # load packages

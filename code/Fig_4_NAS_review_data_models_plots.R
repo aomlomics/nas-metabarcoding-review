@@ -11,7 +11,7 @@ library(tidyverse)
 library(cowplot)
 
 #read CSV file
-#Appendix 1. AIS eDNA review studies metadata
+#Appendix 1. NAS eDNA review studies metadata
 review_data <- read_csv("Appendix_4_ais_edna_review_data.csv")
 
 review_data %>% group_by(platform_detail) %>% summarize(count = n())

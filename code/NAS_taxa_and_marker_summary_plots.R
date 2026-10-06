@@ -1,4 +1,4 @@
-#Holmes, Thompson & Hunter review of AIS detection in eDNA metabarcoding
+#Holmes, Thompson & Hunter review of NAS detection in eDNA metabarcoding
 setwd("/Users/ann.holmes/Desktop/github/ais-metabarcoding-review")
 
 #modified from https://geneticslab.letgen.org/mikes-genetics-genomics-workbook/phylogenetics/make-a-phylogenetic-tree/

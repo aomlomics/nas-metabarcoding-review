@@ -72,4 +72,4 @@ network_plot <- network_plot +
     legend.key = element_rect(fill = "white"))  #white legend keys background
 
 #save plot using cowplot
-save_plot("AIS_eDNA_mb_keyword_network_plot.png", network_plot, base_height = 6, base_width = 8, dpi = 300)
+save_plot("NAS_eDNA_mb_keyword_network_plot.png", network_plot, base_height = 6, base_width = 8, dpi = 300)

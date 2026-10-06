@@ -8,7 +8,7 @@ library(RColorBrewer)
 library(dplyr)
 library(tidyr)
 
-#fish AIS
+#fish NAS
 fish_marker_donut <- read.csv("fish_marker_donut_plot.csv")
 
 fish_donut = fish_marker_donut %>% 
@@ -19,7 +19,7 @@ as.character(fish_donut$gene)
 as.character(fish_donut$marker)
 as.numeric(fish_donut$n)
 
-#invert AIS
+#invert NAS
 invert_marker_donut <- read.csv("invert_marker_donut_plot.csv")
 
 invert_donut = invert_marker_donut %>% 
@@ -30,7 +30,7 @@ as.character(invert_donut$gene)
 as.character(invert_donut$marker)
 as.numeric(invert_donut$n)
 
-#plant and macroalage AIS
+#plant and macroalage NAS
 plant_marker_donut <- read.csv("plantsalgae_marker_donut_plot.csv")
 
 plant_donut = plant_marker_donut %>% 

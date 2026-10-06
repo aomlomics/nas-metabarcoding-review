@@ -6,7 +6,7 @@ library(sf)
 library(cowplot)
 
 #data for map
-continent_data <- read.csv("AIS_continent_map.csv")
+continent_data <- read.csv("NAS_continent_map.csv")
 
 #group by habitat type and continent
 summary_data <- continent_data %>%
@@ -60,7 +60,7 @@ map_plot <- ggplot() +
         legend.title = element_blank())
 
 #save using cowplot
-save_plot("Figure_1_AIS_studies_map.png", 
+save_plot("Figure_1_NAS_studies_map.png", 
           map_plot, 
           base_width = 10, 
           base_height = 6, 
